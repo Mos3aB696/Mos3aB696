@@ -5,7 +5,7 @@
 
 ## 📑 Table of Contents
 - [View My CV](#-view-my-cv)
-- [About Me](#-about)
+- [About](#-about)
 - [Skills](#-skills)
 - [Projects](#-projects)
   - [eCommerce](#ecommerce)
