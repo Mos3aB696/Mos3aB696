@@ -1,8 +1,7 @@
-# Mosaab Abdelkawy ![GitHub Followers](https://img.shields.io/github/followers/Mos3aB696?style=social)
-
-![Developer GIF](https://media.giphy.com/media/3o7aD4NTo1lq5nU4h6/giphy.gif)
+# Mosaab Abdelkawy
 
 **Software Engineer | Full-Stack Engineer**  
+⏳⚙️✨  **Software Engineer | Full-Stack Engineer**  ✨⚙️⏳
 
 ## 📑 Table of Contents
 - [About Me](#-about-me)
