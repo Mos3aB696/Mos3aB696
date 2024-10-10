@@ -2,7 +2,7 @@
 
 **Software Engineer | Full-Stack Engineer**  
 
-![Programming Rules GIF](https://tenor.com/bkyl1.gif)
+![Programming Rules GIF](https://tenor.com/view/do-not-touch-it-programmer-walking-cow-coding-gif-17252607)
 
 ---
 
