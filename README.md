@@ -113,4 +113,6 @@ As a **Volunteer Tutor** for the Software Engineering program at **ALX**, I led 
 
 ## 🌐 Let’s Connect!
 
-I am always open to discussing new projects, collaborations, or opportunities. Feel free to reach out!
+I am always open to discussing new projects, collaborations, or opportunities. Feel free to reach out!  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mosaab-abdelkawy/) 
+
