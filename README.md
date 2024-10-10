@@ -1,8 +1,6 @@
-# Mosaab Abdelkawy 👨‍💻
+# Mosaab Abdelkawy
 
-**Software Engineer | Full-Stack Engineer**
-
----
+**Software Engineer | Full-Stack Engineer**  
 
 ## 📑 Table of Contents
 - [About Me](#-about-me)
