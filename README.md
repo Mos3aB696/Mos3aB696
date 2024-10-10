@@ -3,6 +3,19 @@
 **Software Engineer | Full-Stack Engineer**  
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mosaab-abdelkawy/) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Mos3aB696) [![Email](https://skillicons.dev/icons?i=gmail)](mailto:mos3ab696@gmail.com) [![YouTube](https://skillicons.dev/icons?i=youtube)](https://youtube.com/@tapseta696?si=6yK4yP-dkgDeOgOe)
 
+## 📑 Table of Contents
+- [View My CV](#-view-my-cv)
+- [About Me](#-about-me)
+- [Skills](#-skills)
+- [Projects](#-projects)
+  - [eCommerce](#ecommerce)
+  - [Simple Shell](#simple-shell)
+  - [Special Design](#special-design)
+- [Education](#-education)
+- [Certifications](#-certifications)
+- [Volunteering](#-volunteering)
+- [Let’s Connect](#-lets-connect)
+
 ### 📄 [View My CV](https://drive.google.com/file/d/1__UaGWFQYJgXQABUYH1LsA-NtH09bWh5/view?usp=sharing)
 
 
@@ -68,6 +81,14 @@ A robust content management system (CMS) designed for e-commerce platforms. It s
   - Item Management (detailed product/service handling)  
   - **Security:** Protection against SQL injection and data integrity measures  
   - **Multilingual Support**
+ 
+### [Simple Shell](https://github.com/Mos3aB696/simple_shell)  
+A custom Unix shell is written in **C** as a command-line interpreter. This project enhances my understanding of Unix system calls, process management, and signal handling.
+
+- **Key Features:**  
+  - Command execution in interactive and non-interactive modes  
+  - Environment variable management  
+  - Error handling for invalid commands
 
 ### [Special Design](https://github.com/Mos3aB696/Special_Design)  
 A fully responsive web design project leveraging modern front-end technologies. This project emphasizes dynamic design and cross-device compatibility, delivering a seamless user experience.
@@ -77,14 +98,6 @@ A fully responsive web design project leveraging modern front-end technologies. 
   - Responsive design  
   - Interactive elements (animations, DOM manipulation)  
   - Cross-browser compatibility
-
-### [Simple Shell](https://github.com/Mos3aB696/simple_shell)  
-A custom Unix shell is written in **C** that acts as a command-line interpreter. This project enhances my understanding of Unix system calls, process management, and signal handling.
-
-- **Key Features:**  
-  - Command execution in interactive and non-interactive modes  
-  - Environment variable management  
-  - Error handling for invalid commands
 
 ---
 
