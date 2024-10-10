@@ -103,7 +103,7 @@ Completed an intensive, project-based one-year program focusing on full-stack de
 
 ## 🏅 Certifications
 
-- **[McKinsey Forward Program]**(https://www.credly.com/badges/a43ada77-f290-4f7f-98db-7b3c0d29acbc/public_url) – July 2024  
+- [**McKinsey Forward Program**](https://www.credly.com/badges/a43ada77-f290-4f7f-98db-7b3c0d29acbc/public_url) – July 2024  
 - **Certified Software Engineer** – September 2024  
 - **Volunteer Software Tutor** – September 2024  
 
