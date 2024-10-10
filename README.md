@@ -3,9 +3,9 @@
 **Software Engineer | Full-Stack Engineer**  
 
 ## 📑 Table of Contents
-- [View My CV](#-view-my-cv)
 - [About Me](#-about-me)
 - [Skills](#-skills)
+- [View My CV](#-view-my-cv)
 - [Projects](#-projects)
   - [eCommerce](#ecommerce)
   - [Special Design](#special-design)
@@ -14,10 +14,6 @@
 - [Certifications](#-certifications)
 - [Volunteering](#-volunteering)
 - [Let’s Connect](#-lets-connect)
-
-
-### 📄 [View My CV](https://drive.google.com/file/d/1__UaGWFQYJgXQABUYH1LsA-NtH09bWh5/view?usp=sharing)
-
 
 ---
 
@@ -67,7 +63,9 @@ I thrive in collaborative, fast-paced environments where I can solve real-world 
 - **Databases:**  
   ![MySQL](https://skillicons.dev/icons?i=mysql)
   ![MongoDB](https://skillicons.dev/icons?i=mongodb)
-  
+
+### 📄 [View My CV](https://drive.google.com/file/d/1__UaGWFQYJgXQABUYH1LsA-NtH09bWh5/view?usp=sharing)
+
 ---
 
 ## 📂 Projects
