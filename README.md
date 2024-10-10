@@ -5,7 +5,7 @@
 
 ## 📑 Table of Contents
 - [View My CV](#-view-my-cv)
-- [About](#-about)
+- [About Me](#-about-me)
 - [Skills](#-skills)
 - [Projects](#-projects)
   - [eCommerce](#ecommerce)
@@ -21,7 +21,7 @@
 
 ---
 
-## 🛠️ About
+## 🛠️ About Me
 
 I am an experienced **Software Engineer** with a passion for full-stack development and a commitment to building high-quality web applications. My expertise spans a broad range of technologies, including **JavaScript, Node.js, PHP, Python**, and **C**, complemented by strong skills in database management (**MySQL, MongoDB**) and DevOps practices like **Docker** and **Linux**.
 
