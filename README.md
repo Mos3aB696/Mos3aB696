@@ -1,8 +1,8 @@
 # Mosaab Abdelkawy
 
 **Software Engineer | Full-Stack Developer**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/mosaab-abdelkawy/) [![GitHub](https://img.shields.io/badge/-GitHub-black)](https://github.com/Mos3aB696) [![YouTube](https://img.shields.io/badge/-YouTube-red)](https://youtube.com/@tapseta696?si=6yK4yP-dkgDeOgOe)  
-📧 mos3ab696@gmail.com
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mosaab-abdelkawy/) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Mos3aB696) [![YouTube](https://skillicons.dev/icons?i=youtube)](https://youtube.com/@tapseta696?si=6yK4yP-dkgDeOgOe)  
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:mos3ab696@gmail.com)
 
 ---
 
