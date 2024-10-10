@@ -17,34 +17,34 @@ I thrive in collaborative, fast-paced environments where I can solve real-world 
 ## 🧰 Skills
 
 - **Languages:**  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) 
-  ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat) 
-  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) 
-  ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)
+  ![JavaScript](https://skillicons.dev/icons?i=js) 
+  ![PHP](https://skillicons.dev/icons?i=php) 
+  ![Python](https://skillicons.dev/icons?i=python) 
+  ![C](https://skillicons.dev/icons?i=c)
 
 - **Frameworks:**  
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat)
-  ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
-  ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat)
-  ![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=flat)
-  ![PugJS](https://img.shields.io/badge/-PugJS-A86454?logo=pug&logoColor=white&style=flat)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
+  ![Node.js](https://skillicons.dev/icons?i=nodejs)
+  ![Express.js](https://skillicons.dev/icons?i=express)
+  ![Vue.js](https://skillicons.dev/icons?i=vue)
+  ![SASS](https://skillicons.dev/icons?i=sass)
+  ![PugJS](https://skillicons.dev/icons?i=pug)
+  ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 
 - **Databases:**  
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-  ![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat)
-  ![NoSQL](https://img.shields.io/badge/-NoSQL-E34F26?logo=nosql&logoColor=white&style=flat)
+  ![MySQL](https://skillicons.dev/icons?i=mysql)
+  ![MongoDB](https://skillicons.dev/icons?i=mongodb)
+  ![SQL](https://skillicons.dev/icons?i=postgres)
+  ![NoSQL](https://skillicons.dev/icons?i=firebase)
 
 - **Tools & Technologies:**  
-  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
-  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-  ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
-  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat)
-  ![Fedora](https://img.shields.io/badge/-Fedora-294172?logo=fedora&logoColor=white&style=flat)
-  ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
+  ![Git](https://skillicons.dev/icons?i=git)
+  ![GitHub](https://skillicons.dev/icons?i=github)
+  ![Postman](https://skillicons.dev/icons?i=postman)
+  ![Docker](https://skillicons.dev/icons?i=docker)
+  ![Linux](https://skillicons.dev/icons?i=linux)
+  ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
+  ![Fedora](https://skillicons.dev/icons?i=fedora)
+  ![VSCode](https://skillicons.dev/icons?i=vscode)
 
 - **Soft Skills:**  
   Team Leadership, Project Management, Communication, Time Management, Team Collaboration  
