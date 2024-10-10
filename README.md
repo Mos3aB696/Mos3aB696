@@ -41,11 +41,14 @@ I thrive in collaborative, fast-paced environments where I can solve real-world 
   ![GitHub](https://skillicons.dev/icons?i=github)
   ![Postman](https://skillicons.dev/icons?i=postman)
   ![Docker](https://skillicons.dev/icons?i=docker)
+  ![VSCode](https://skillicons.dev/icons?i=vscode)
+  ![Vim](https://skillicons.dev/icons?i=vim)
+
+- **DevOps:**
   ![Linux](https://skillicons.dev/icons?i=linux)
   ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
   ![Fedora](https://skillicons.dev/icons?i=redhat)
-  ![VSCode](https://skillicons.dev/icons?i=vscode)
-
+  
 - **Soft Skills:**  
   Team Leadership, Project Management, Communication, Time Management, Team Collaboration  
 
