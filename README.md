@@ -44,7 +44,7 @@ I thrive in collaborative, fast-paced environments where I can solve real-world 
   ![VSCode](https://skillicons.dev/icons?i=vscode)
   ![Vim](https://skillicons.dev/icons?i=vim)
 
-- **DevOps:**
+- **DevOps:**  
   ![Linux](https://skillicons.dev/icons?i=linux)
   ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
   ![Fedora](https://skillicons.dev/icons?i=redhat)
