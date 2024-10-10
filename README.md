@@ -5,8 +5,8 @@
 
 ## 📑 Table of Contents
 - [View My CV](#-view-my-cv)
+- [About Me](#about-me)
 - [Skills](#-skills)
-- [About Me](#-about-me)
 - [Projects](#-projects)
   - [eCommerce](#ecommerce)
   - [Special Design](#special-design)
