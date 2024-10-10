@@ -1,11 +1,6 @@
 # Mosaab Abdelkawy 👨‍💻
 
-![Software Engineer Badge](https://img.shields.io/badge/Software_Engineer-000000?style=flat&logo=appveyor) ![Full-Stack Engineer Badge](https://img.shields.io/badge/Full--Stack_Engineer-000000?style=flat&logo=appveyor)
-
----
-
 **Software Engineer | Full-Stack Engineer** 
-
 
 ## 📑 Table of Contents
 - [About Me](#-about-me)
