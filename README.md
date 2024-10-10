@@ -2,7 +2,7 @@
 
 **Software Engineer | Full-Stack Engineer**  
 
-![Programming Rules GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGltNW12ZWN6bGdwemEydnN0NGh0a3l5dHVtbXZhM3d3YWhvbHR3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif)
+![Programming Rules GIF](https://tenor.com/bkyl1.gif)
 
 ---
 
