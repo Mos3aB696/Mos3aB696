@@ -15,27 +15,6 @@ I thrive in collaborative, fast-paced environments where I can solve real-world 
 
 ## 🧰 Skills
 
-- **Languages:**  
-  ![JavaScript](https://skillicons.dev/icons?i=js) 
-  ![PHP](https://skillicons.dev/icons?i=php) 
-  ![Python](https://skillicons.dev/icons?i=python) 
-  ![C](https://skillicons.dev/icons?i=c)
-
-- **Frameworks:**  
-  ![Node.js](https://skillicons.dev/icons?i=nodejs)
-  ![Express.js](https://skillicons.dev/icons?i=express)
-  ![Vue.js](https://skillicons.dev/icons?i=vue)
-  ![SASS](https://skillicons.dev/icons?i=sass)
-  ![PugJS](https://skillicons.dev/icons?i=pug)
-  ![Jest](https://skillicons.dev/icons?i=jest)
-  ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-
-- **Databases:**  
-  ![MySQL](https://skillicons.dev/icons?i=mysql)
-  ![MongoDB](https://skillicons.dev/icons?i=mongodb)
-  ![SQL](https://skillicons.dev/icons?i=postgres)
-  ![NoSQL](https://skillicons.dev/icons?i=firebase)
-
 - **Tools & Technologies:**  
   ![Html](https://skillicons.dev/icons?i=html)
   ![Css](https://skillicons.dev/icons?i=css)
@@ -48,10 +27,29 @@ I thrive in collaborative, fast-paced environments where I can solve real-world 
   ![VSCode](https://skillicons.dev/icons?i=vscode)
   ![Vim](https://skillicons.dev/icons?i=vim)
 
+  - **Frameworks:**  
+  ![Node.js](https://skillicons.dev/icons?i=nodejs)
+  ![Express.js](https://skillicons.dev/icons?i=express)
+  ![Vue.js](https://skillicons.dev/icons?i=vue)
+  ![SASS](https://skillicons.dev/icons?i=sass)
+  ![PugJS](https://skillicons.dev/icons?i=pug)
+  ![Jest](https://skillicons.dev/icons?i=jest)
+  ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+
+- **Languages:**  
+  ![JavaScript](https://skillicons.dev/icons?i=js) 
+  ![PHP](https://skillicons.dev/icons?i=php) 
+  ![Python](https://skillicons.dev/icons?i=python) 
+  ![C](https://skillicons.dev/icons?i=c)
+
 - **DevOps:**  
   ![Linux](https://skillicons.dev/icons?i=linux)
   ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
   ![Fedora](https://skillicons.dev/icons?i=redhat)
+  
+- **Databases:**  
+  ![MySQL](https://skillicons.dev/icons?i=mysql)
+  ![MongoDB](https://skillicons.dev/icons?i=mongodb)
   
 - **Soft Skills:**  
   Team Leadership, Project Management, Communication, Time Management, Team Collaboration  
