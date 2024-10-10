@@ -4,17 +4,18 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mosaab-abdelkawy/) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Mos3aB696) [![Email](https://skillicons.dev/icons?i=gmail)](mailto:mos3ab696@gmail.com) [![YouTube](https://skillicons.dev/icons?i=youtube)](https://youtube.com/@tapseta696?si=6yK4yP-dkgDeOgOe)
 
 ## 📑 Table of Contents
-- [View My CV](#-view-my-cv)
 - [About Me](#-about-me)
 - [Skills](#-skills)
+- [View My CV](#-view-my-cv)
 - [Projects](#-projects)
   - [eCommerce](#ecommerce)
-  - [Simple Shell](#simple-shell)
   - [Special Design](#special-design)
+  - [Simple Shell](#simple-shell)
 - [Education](#-education)
 - [Certifications](#-certifications)
 - [Volunteering](#-volunteering)
 - [Let’s Connect](#-lets-connect)
+
 
 ### 📄 [View My CV](https://drive.google.com/file/d/1__UaGWFQYJgXQABUYH1LsA-NtH09bWh5/view?usp=sharing)
 
