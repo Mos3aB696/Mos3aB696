@@ -1,5 +1,7 @@
 # Mosaab Abdelkawy 🧑‍💻
 
+![Programming Rules GIF](https://giphy.com/gifs/ProductDock-programming-rules-productdock-93UOscPyDH8cdRfSaT)
+
 **Software Engineer | Full-Stack Engineer**  
 
 ## 📑 Table of Contents
