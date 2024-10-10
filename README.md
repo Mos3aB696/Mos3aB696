@@ -43,6 +43,7 @@ I thrive in collaborative, fast-paced environments where I can solve real-world 
   ![Git](https://skillicons.dev/icons?i=git)
   ![GitHub](https://skillicons.dev/icons?i=github)
   ![Babel](https://skillicons.dev/icons?i=babel)
+  ![Npm](https://skillicons.dev/icons?i=npm)
   ![Postman](https://skillicons.dev/icons?i=postman)
   ![Docker](https://skillicons.dev/icons?i=docker)
   ![VSCode](https://skillicons.dev/icons?i=vscode)
