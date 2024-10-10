@@ -43,7 +43,7 @@ I thrive in collaborative, fast-paced environments where I can solve real-world 
   ![Docker](https://skillicons.dev/icons?i=docker)
   ![Linux](https://skillicons.dev/icons?i=linux)
   ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
-  ![Fedora](https://skillicons.dev/icons?i=fedora)
+  ![Fedora](https://skillicons.dev/icons?i=redhat)
   ![VSCode](https://skillicons.dev/icons?i=vscode)
 
 - **Soft Skills:**  
