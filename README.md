@@ -27,7 +27,7 @@ I thrive in collaborative, fast-paced environments where I can solve real-world 
   ![VSCode](https://skillicons.dev/icons?i=vscode)
   ![Vim](https://skillicons.dev/icons?i=vim)
   
-    - **Frameworks:**  
+        - **Frameworks:**  
   ![Node.js](https://skillicons.dev/icons?i=nodejs)
   ![Express.js](https://skillicons.dev/icons?i=express)
   ![Vue.js](https://skillicons.dev/icons?i=vue)
@@ -36,18 +36,18 @@ I thrive in collaborative, fast-paced environments where I can solve real-world 
   ![Jest](https://skillicons.dev/icons?i=jest)
   ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 
-      - **Languages:**  
+            - **Languages:**  
   ![JavaScript](https://skillicons.dev/icons?i=js) 
   ![PHP](https://skillicons.dev/icons?i=php) 
   ![Python](https://skillicons.dev/icons?i=python) 
   ![C](https://skillicons.dev/icons?i=c)
 
-        - **DevOps:**  
+                - **DevOps:**  
   ![Linux](https://skillicons.dev/icons?i=linux)
   ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
   ![Fedora](https://skillicons.dev/icons?i=redhat)
   
-          - **Databases:**  
+                  - **Databases:**  
   ![MySQL](https://skillicons.dev/icons?i=mysql)
   ![MongoDB](https://skillicons.dev/icons?i=mongodb)
   
