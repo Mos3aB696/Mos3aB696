@@ -51,11 +51,6 @@ I thrive in collaborative, fast-paced environments where I can solve real-world 
   ![MySQL](https://skillicons.dev/icons?i=mysql)
   ![MongoDB](https://skillicons.dev/icons?i=mongodb)
   
-- **Soft Skills:**  
-  Team Leadership, Project Management, Communication, Time Management, Team Collaboration  
-
-- **Languages:**  
-  Fluent in Arabic, English, and German  
 
 ---
 
