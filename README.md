@@ -36,7 +36,7 @@ I thrive in collaborative, fast-paced environments where I can solve real-world 
   ![SQL](https://skillicons.dev/icons?i=postgres)
   ![NoSQL](https://skillicons.dev/icons?i=firebase)
 
-- **Tools & Technologies:**
+- **Tools & Technologies:**  
   ![Html](https://skillicons.dev/icons?i=html)
   ![Css](https://skillicons.dev/icons?i=css)
   ![Git](https://skillicons.dev/icons?i=git)
