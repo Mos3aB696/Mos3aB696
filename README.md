@@ -4,9 +4,9 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mosaab-abdelkawy/) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Mos3aB696) [![Email](https://skillicons.dev/icons?i=gmail)](mailto:mos3ab696@gmail.com) [![YouTube](https://skillicons.dev/icons?i=youtube)](https://youtube.com/@tapseta696?si=6yK4yP-dkgDeOgOe)
 
 ## 📑 Table of Contents
-- [About Me](#-about-me)
-- [Skills](#-skills)
 - [View My CV](#-view-my-cv)
+- [Skills](#-skills)
+- [About Me](#-about-me)
 - [Projects](#-projects)
   - [eCommerce](#ecommerce)
   - [Special Design](#special-design)
