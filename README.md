@@ -36,6 +36,7 @@ I thrive in collaborative, fast-paced environments where I can solve real-world 
   ![Vue.js](https://skillicons.dev/icons?i=vue)
   ![SASS](https://skillicons.dev/icons?i=sass)
   ![PugJS](https://skillicons.dev/icons?i=pug)
+  ![GulpJS](https://skillicons.dev/icons?i=gulpjs)
   ![Jest](https://skillicons.dev/icons?i=jest)
   ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 
