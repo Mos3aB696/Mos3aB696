@@ -14,9 +14,7 @@
   - [eCommerce](#ecommerce)
   - [Special Design](#special-design)
   - [Simple Shell](#simple-shell)
-- [Education](#-education)
 - [Certifications](#-certifications)
-- [Volunteering](#-volunteering)
 - [Let’s Connect](#-lets-connect)
 
 ---
@@ -82,16 +80,6 @@ A custom Unix shell is written in **C** as a command-line interpreter. This proj
 
 ### [Special Design](https://github.com/Mos3aB696/Special_Design)  
 A fully responsive web design project leveraging modern front-end technologies. This project emphasizes dynamic design and cross-device compatibility, delivering a seamless user experience.
-
----
-
-## 🎓 Education
-
-**Software Engineering Certificate** – ALX (2023-2024)  
-Completed an intensive, project-based one-year program focusing on full-stack development, system design, and scalable solutions.
-
-**Bachelor’s Degree in Languages and Translation** – Al-Azhar University (2019-2021)  
-**Bachelor’s Degree in Islamic Studies** – Al-Azhar University (2021-2025, ongoing)
 
 ---
 
