@@ -94,5 +94,5 @@ A fully responsive web design project leveraging modern front-end technologies. 
 ## 🌐 Let’s Connect!
 
 I am always open to discussing new projects, collaborations, or opportunities. Feel free to reach out!  
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mosaab-abdelkawy/) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Mos3aB696) [![Email](https://skillicons.dev/icons?i=gmail)](mailto:mos3ab696@gmail.com) [![YouTube](https://skillicons.dev/icons?i=youtube)](https://youtube.com/@tapseta696?si=6yK4yP-dkgDeOgOe)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mosaab-abdelkawy/) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Mos3aB696) [![Email](https://skillicons.dev/icons?i=gmail)](mailto:mos3ab696@gmail.com)
 
