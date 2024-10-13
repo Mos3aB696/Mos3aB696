@@ -76,30 +76,12 @@ I thrive in collaborative, fast-paced environments where I can solve real-world 
 
 ### [eCommerce](https://github.com/Mos3aB696/eCommerce)  
 A robust content management system (CMS) designed for e-commerce platforms. It simplifies website management for small and medium-sized businesses, offering user-friendly interfaces for managing categories, items, members, and pages. 
-
-- **Key Features:**  
-  - User Management (Add, edit, approve, delete members)  
-  - Category & Page Management  
-  - Item Management (detailed product/service handling)  
-  - **Security:** Protection against SQL injection and data integrity measures  
-  - **Multilingual Support**
  
 ### [Simple Shell](https://github.com/Mos3aB696/simple_shell)  
 A custom Unix shell is written in **C** as a command-line interpreter. This project enhances my understanding of Unix system calls, process management, and signal handling.
 
-- **Key Features:**  
-  - Command execution in interactive and non-interactive modes  
-  - Environment variable management  
-  - Error handling for invalid commands
-
 ### [Special Design](https://github.com/Mos3aB696/Special_Design)  
 A fully responsive web design project leveraging modern front-end technologies. This project emphasizes dynamic design and cross-device compatibility, delivering a seamless user experience.
-
-- **Technologies:** HTML, CSS, JavaScript  
-- **Key Features:**  
-  - Responsive design  
-  - Interactive elements (animations, DOM manipulation)  
-  - Cross-browser compatibility
 
 ---
 
@@ -118,12 +100,6 @@ Completed an intensive, project-based one-year program focusing on full-stack de
 - [**McKinsey Forward Program**](https://www.credly.com/badges/a43ada77-f290-4f7f-98db-7b3c0d29acbc/public_url) – July 2024  
 - [**Certified Software Engineer**](https://intranet.alxswe.com/certificates/my8JLsM7xE) – September 2024  
 - [**Volunteer Software Tutor**](https://drive.google.com/file/d/1fJOBmGNiuYgMoTaZldSfuN-T_C7GsnKO/view?usp=sharing) – September 2024  
-
----
-
-## 🤝 Volunteering
-
-As a **Volunteer Tutor** for the Software Engineering program at **ALX**, I led collaborative learning sessions and mentored peers, focusing on full-stack development, algorithms, and best practices. This experience sharpened my leadership and communication skills while helping others grow in their technical careers.
 
 ---
 
