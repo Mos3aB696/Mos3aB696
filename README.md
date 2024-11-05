@@ -41,9 +41,10 @@ I thrive in collaborative, fast-paced environments where I can solve real-world 
   ![VSCode](https://skillicons.dev/icons?i=vscode)
   ![Vim](https://skillicons.dev/icons?i=vim)
   
-- **Frameworks:**  
+- **Frameworks & libraries:**  
   ![Node.js](https://skillicons.dev/icons?i=nodejs)
   ![Express.js](https://skillicons.dev/icons?i=express)
+  ![React](https://skillicons.dev/icons?i=react)
   ![Vue.js](https://skillicons.dev/icons?i=vue)
   ![SASS](https://skillicons.dev/icons?i=sass)
   ![PugJS](https://skillicons.dev/icons?i=pug)
