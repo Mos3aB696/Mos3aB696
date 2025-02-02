@@ -81,8 +81,8 @@ A robust content management system (CMS) designed for e-commerce platforms. It s
 ### [Simple Shell](https://github.com/Mos3aB696/simple_shell)  
 A custom Unix shell is written in **C** as a command-line interpreter. This project enhances my understanding of Unix system calls, process management, and signal handling.
 
-### [Special Design](https://github.com/Mos3aB696/Special_Design)  
-A fully responsive web design project leveraging modern front-end technologies. This project emphasizes dynamic design and cross-device compatibility, delivering a seamless user experience.
+### [Tech.io](https://github.com/Mos3aB696/Tech.io)  
+**Tech.io** is a fully responsive and interactive web design project that showcases modern front-end development practices. It leverages HTML, CSS, and JavaScript to create a dynamic, user-friendly experience across various devices, from desktops to mobile phones.
 
 ---
 
@@ -97,5 +97,5 @@ A fully responsive web design project leveraging modern front-end technologies. 
 ## 🌐 Let’s Connect!
 
 I am always open to discussing new projects, collaborations, or opportunities. Feel free to reach out!  
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mosaab-abdelkawy/) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Mos3aB696) [![Email](https://skillicons.dev/icons?i=gmail)](mailto:mos3ab696@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mosaab-abdelkawy/) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Mos3aB696) [![Email](https://skillicons.dev/icons?i=gmail)](mailto:contact@mos3ab.tech)
 
