@@ -2,7 +2,7 @@
 
 **Software Engineer | Full-Stack Engineer**  
 
-[**View Portfolio**](https://mos3ab.tech)
+[![Visit My Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-%230077B5?style=for-the-badge&logo=react&logoColor=white)](https://mos3ab.tech)
 
 ![Programming Rules GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGltNW12ZWN6bGdwemEydnN0NGh0a3l5dHVtbXZhM3d3YWhvbHR3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif)
 
@@ -43,7 +43,7 @@ I thrive in collaborative, fast-paced environments where I can solve real-world 
   ![VSCode](https://skillicons.dev/icons?i=vscode)
   ![Vim](https://skillicons.dev/icons?i=vim)
   
-- **Frameworks & libraries:**  
+- **Frameworks & Libraries:**  
   ![Node.js](https://skillicons.dev/icons?i=nodejs)
   ![Express.js](https://skillicons.dev/icons?i=express)
   ![React](https://skillicons.dev/icons?i=react)
@@ -77,9 +77,9 @@ I thrive in collaborative, fast-paced environments where I can solve real-world 
 
 ### [eCommerce](https://github.com/Mos3aB696/eCommerce)  
 A robust content management system (CMS) designed for e-commerce platforms. It simplifies website management for small and medium-sized businesses, offering user-friendly interfaces for managing categories, items, members, and pages. 
- 
+
 ### [Simple Shell](https://github.com/Mos3aB696/simple_shell)  
-A custom Unix shell is written in **C** as a command-line interpreter. This project enhances my understanding of Unix system calls, process management, and signal handling.
+A custom Unix shell written in **C** as a command-line interpreter. This project enhances my understanding of Unix system calls, process management, and signal handling.
 
 ### [Tech.io](https://github.com/Mos3aB696/Tech.io)  
 **Tech.io** is a fully responsive and interactive web design project that showcases modern front-end development practices. It leverages HTML, CSS, and JavaScript to create a dynamic, user-friendly experience across various devices, from desktops to mobile phones.
@@ -97,5 +97,9 @@ A custom Unix shell is written in **C** as a command-line interpreter. This proj
 ## 🌐 Let’s Connect!
 
 I am always open to discussing new projects, collaborations, or opportunities. Feel free to reach out!  
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mosaab-abdelkawy/) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Mos3aB696) [![Email](https://skillicons.dev/icons?i=gmail)](mailto:contact@mos3ab.tech)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mosaab-abdelkawy/) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mos3aB696) 
+[![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@mos3ab.tech) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Tapseta)
 
