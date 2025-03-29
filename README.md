@@ -69,7 +69,7 @@ I thrive in collaborative, fast-paced environments where I can solve real-world 
   ![MySQL](https://skillicons.dev/icons?i=mysql)
   ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 
-### 📄 [View My CV](https://drive.google.com/file/d/1IT3F7lUPDpYKbui_IkxDFlou5MW_XFXf/view?usp=sharing)
+### 📄 [View My CV](https://drive.google.com/file/d/1rpLzG7TAOuYM_QHLEdNgm7mKXr7McNzl/view?usp=sharing)
 
 ---
 
